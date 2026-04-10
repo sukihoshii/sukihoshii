@@ -19,7 +19,7 @@
 
 ---
 
-## who is this person
+## whoami
 
 just a guy who spends more time ricing arch linux than doing anything productive.
 
